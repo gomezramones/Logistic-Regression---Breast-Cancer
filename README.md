@@ -15,9 +15,11 @@ The accuracies achieved are as follows:
 
 # Original Dataset:
 Training Set Accuracy: 96.242171 - Training set F1 score: 0.953846
+
 Test Set Accuracy: 100.000000 - Test set F1 score: 1.000000
 
 # DIagnistic Dataset
 Training Set Accuracy: 98.496241 - Training set F1 score: 0.982456
+
 Test Set Accuracy: 97.647059 - Test set F1 score: 0.976744
 
